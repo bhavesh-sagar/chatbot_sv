@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+PyPDF2
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+torch
+langchain
+langchain-community
+openai
+python-dotenv
+langchain-groq
+langchain-openai 
+langchain-text-splitters
